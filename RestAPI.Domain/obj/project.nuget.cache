@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MvY8n5mna5Kh5h5cdFHfsYCAWoQ03PVx2P0vMLJ5NB9H1akQMHcIr6ttA5l9Rkj0+HzYeS1nQ4sDhG99aPXFQA==",
+  "dgSpecHash": "7I5SFYtpjm1ZqatNVLOhhh8F5q6VBD5T3i3T+QWtkNkUIc9AjD7YSy1WG6dXyJLxuRRRquxoTynWWEX9AQHq7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tommy Persaud\\Documents\\RestAPI.Domain\\RestAPI.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Tommy Persaud\\Documents\\DotNet-RestAPI-Using-Dapper\\RestAPI.Domain\\RestAPI.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

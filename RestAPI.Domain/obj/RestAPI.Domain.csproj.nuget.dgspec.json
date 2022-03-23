@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tommy Persaud\\Documents\\RestAPI.Domain\\RestAPI.Domain.csproj": {}
+    "C:\\Users\\Tommy Persaud\\Documents\\DotNet-RestAPI-Using-Dapper\\RestAPI.Domain\\RestAPI.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tommy Persaud\\Documents\\RestAPI.Domain\\RestAPI.Domain.csproj": {
+    "C:\\Users\\Tommy Persaud\\Documents\\DotNet-RestAPI-Using-Dapper\\RestAPI.Domain\\RestAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tommy Persaud\\Documents\\RestAPI.Domain\\RestAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Tommy Persaud\\Documents\\DotNet-RestAPI-Using-Dapper\\RestAPI.Domain\\RestAPI.Domain.csproj",
         "projectName": "RestAPI.Domain",
-        "projectPath": "C:\\Users\\Tommy Persaud\\Documents\\RestAPI.Domain\\RestAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\Tommy Persaud\\Documents\\DotNet-RestAPI-Using-Dapper\\RestAPI.Domain\\RestAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\Tommy Persaud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tommy Persaud\\Documents\\RestAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Tommy Persaud\\Documents\\DotNet-RestAPI-Using-Dapper\\RestAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
