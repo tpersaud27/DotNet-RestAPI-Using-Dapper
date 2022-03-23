@@ -1,0 +1,15 @@
+C:\Users\Tommy Persaud\Documents\RestAPI.DataAccess\bin\Debug\net5.0\RestAPI.DataAccess.deps.json
+C:\Users\Tommy Persaud\Documents\RestAPI.DataAccess\bin\Debug\net5.0\RestAPI.DataAccess.dll
+C:\Users\Tommy Persaud\Documents\RestAPI.DataAccess\bin\Debug\net5.0\RestAPI.DataAccess.pdb
+C:\Users\Tommy Persaud\Documents\RestAPI.DataAccess\bin\Debug\net5.0\RestAPI.Domain.dll
+C:\Users\Tommy Persaud\Documents\RestAPI.DataAccess\bin\Debug\net5.0\RestAPI.Domain.pdb
+C:\Users\Tommy Persaud\Documents\RestAPI.DataAccess\obj\Debug\net5.0\RestAPI.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Tommy Persaud\Documents\RestAPI.DataAccess\obj\Debug\net5.0\RestAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy Persaud\Documents\RestAPI.DataAccess\obj\Debug\net5.0\RestAPI.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Tommy Persaud\Documents\RestAPI.DataAccess\obj\Debug\net5.0\RestAPI.DataAccess.AssemblyInfo.cs
+C:\Users\Tommy Persaud\Documents\RestAPI.DataAccess\obj\Debug\net5.0\RestAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Tommy Persaud\Documents\RestAPI.DataAccess\obj\Debug\net5.0\RestAPI.DataAccess.csproj.CopyComplete
+C:\Users\Tommy Persaud\Documents\RestAPI.DataAccess\obj\Debug\net5.0\RestAPI.DataAccess.dll
+C:\Users\Tommy Persaud\Documents\RestAPI.DataAccess\obj\Debug\net5.0\refint\RestAPI.DataAccess.dll
+C:\Users\Tommy Persaud\Documents\RestAPI.DataAccess\obj\Debug\net5.0\RestAPI.DataAccess.pdb
+C:\Users\Tommy Persaud\Documents\RestAPI.DataAccess\obj\Debug\net5.0\ref\RestAPI.DataAccess.dll

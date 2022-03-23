@@ -1,0 +1,12 @@
+C:\Users\Tommy Persaud\Documents\RestAPI.Domain\bin\Debug\net5.0\RestAPI.Domain.deps.json
+C:\Users\Tommy Persaud\Documents\RestAPI.Domain\bin\Debug\net5.0\RestAPI.Domain.dll
+C:\Users\Tommy Persaud\Documents\RestAPI.Domain\bin\Debug\net5.0\RestAPI.Domain.pdb
+C:\Users\Tommy Persaud\Documents\RestAPI.Domain\obj\Debug\net5.0\RestAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\Tommy Persaud\Documents\RestAPI.Domain\obj\Debug\net5.0\RestAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy Persaud\Documents\RestAPI.Domain\obj\Debug\net5.0\RestAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Tommy Persaud\Documents\RestAPI.Domain\obj\Debug\net5.0\RestAPI.Domain.AssemblyInfo.cs
+C:\Users\Tommy Persaud\Documents\RestAPI.Domain\obj\Debug\net5.0\RestAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tommy Persaud\Documents\RestAPI.Domain\obj\Debug\net5.0\RestAPI.Domain.dll
+C:\Users\Tommy Persaud\Documents\RestAPI.Domain\obj\Debug\net5.0\refint\RestAPI.Domain.dll
+C:\Users\Tommy Persaud\Documents\RestAPI.Domain\obj\Debug\net5.0\RestAPI.Domain.pdb
+C:\Users\Tommy Persaud\Documents\RestAPI.Domain\obj\Debug\net5.0\ref\RestAPI.Domain.dll
